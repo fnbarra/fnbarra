@@ -6,7 +6,7 @@ Bridge the gap executive financial management (FP&A, CPA) with predictive analyt
 * 💼 **LinkedIn:** [linkedin.com/in/francobarra](https://in/francobarra)
 * 📩 **Contacto:** [hola@francobarra.com](mailto:hola@francobarra.com)
 
-### My Goals
+## My Goals
 
 ### **1\. Make Complex Finance Simple &amp; Actionable Worldwide**
 
