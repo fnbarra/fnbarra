@@ -1,6 +1,6 @@
 # Franco Barra | Digital CFO & Financial Data Governance
 
-I connect executive financial management (FP&A, CPA) with predictive analytics, real-time dashboards, and data governance for SMEs.
+Bridge the gap executive financial management (FP&A, CPA) with predictive analytics, real-time dashboards, and data governance for SMEs.
 
 * 🌐 **Sitio Web:** [francobarra.com](https://www.francobarra.com)
 * 💼 **LinkedIn:** [linkedin.com/in/francobarra](https://in/francobarra)
@@ -20,9 +20,9 @@ I connect executive financial management (FP&A, CPA) with predictive analytics, 
 
 ### **3\. Scale High-Touch, Premium Advisory Services**
 
-* **Deliver High-Value Fractional CFO Advisory:** Expand a premium consulting model (via WECO) that delivers strategic, high-touch financial architecture to mid-market enterprises.
+* **Deliver High-Value Fractional CFO Advisory:** Expand a premium consulting model that delivers strategic, high-touch financial architecture to mid-market enterprises.
 * **Transition to Productized Services:** Shift from commodity hourly consulting to high-margin, asset-based solutions (such as the 14-day *Financial Data Health Check*).
-* **Maximize Client ROI:** Leverage strategic grant frameworks (e.g., SPRI in Euskadi) and Product-Led Growth (PLG) strategies to reduce onboarding friction and maximize long-term client value.
+* **Maximize Client ROI:** Leverage strategic grant frameworks and Product-Led Growth (PLG) strategies to reduce onboarding friction and maximize long-term client value.
 
 ### **4\. Establish Leadership in Applied AI, FP&amp;A &amp; Agentic Systems**
 
